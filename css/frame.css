@@ -320,6 +320,7 @@ hr {
 
 .img_trans {
   opacity: 0.1;
+  position: relative;
 }
 
 .adaptive-image {
